@@ -201,3 +201,4 @@ jobs:
             linux/VencordInstallerCli-linux
             macos/VencordInstaller.MacOS.zip
             windows/VencordInstalle*.exe
+
